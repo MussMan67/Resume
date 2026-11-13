@@ -1,2 +1,2 @@
-###Hosting resume for PCB business card to hand out at career fair
-## QR-code link to github pages site is located on back of business card
+# Repo for hosting resume on github pages site
+# QR-code link on back of PCB business card for career fair will link to this document
